@@ -1,0 +1,409 @@
+.cc{
+    width: 99vmax;
+    height: 120vh;
+    position: relative;
+    background: linear-gradient(rgba(11, 11, 19, 0.8), rgba(21, 22, 23, 0.8)), url("https://biodataking.com/background/set-3/biodata_designs_formats_1.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top bottom;
+   behavior: inherit;
+}
+
+.gt4{
+    float: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 515px;
+    font-size: 20px;
+    margin-top: 130px;
+    color: aliceblue;
+    position: absolute;
+}
+.AlainDucasse{
+    background-image:
+    url('https://img.lemde.fr/2021/09/20/0/0/0/0/664/0/75/0/269a840_501829422-alain-ducasse00337hd-copie.jpg');
+    position: absolute;
+    width: 12rem;
+    height: 150px;
+    border: solid rgb(111, 28, 28);
+    border-width: 2px;
+    margin-left: 20px;
+    margin-top: 130px;
+    background-size: cover;
+}
+
+.bioalain{
+    font-size: 15px;
+    border: solid wheat 2px;
+    padding: 3px;
+    position: absolute;
+    opacity: 100%;
+    color: #ffffff;
+    margin-top: 205px;
+    box-shadow: 3px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
+   left: 260px;
+}
+.AlainDucasse h3{
+    left: 200px;
+    text-shadow: 2px 2px 2px black;
+  color: #ffffff;
+    position: absolute;
+}
+
+.AlainDucasse:hover h3{
+    left: 160px;
+    transition: 1s;
+    color: #ffffff;
+    position: absolute;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.AlainDucasse:hover{
+    position: absolute;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    border-color: #ffffff;
+    width: 150px;
+    height: 150px;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+/* Guillaume Musso */
+.GuillaumeMusso{
+    background-image:
+    url('https://upload.wikimedia.org/wikipedia/commons/c/c9/Guillaume_Musso.jpg');
+    position: absolute;
+    width: 12rem;
+    height: 150px;
+    border: solid rgb(111, 28, 28);
+    border-width: 2px;
+    margin-left: 300px;
+    margin-top: 320px;
+    background-size: cover;
+}
+
+.bioguilla{
+    font-size: 15px;
+    border: solid wheat 2px;
+    padding: 3px;
+    position: absolute;
+    opacity: 100%;
+    color: #ffffff;
+    margin-top: 395px;
+    box-shadow: 3px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
+   left: 60px;
+   text-align: end;
+}
+.GuillaumeMusso h3{
+    right: 200px;
+    text-align: end;
+    text-shadow: 2px 2px 2px black;
+  color: #ffffff;
+    position: absolute;
+}
+
+.GuillaumeMusso:hover h3{
+    right: 160px;
+    text-align: end;
+    transition: 1s;
+    color: #ffffff;
+    position: absolute;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.GuillaumeMusso:hover{
+    position: absolute;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    border-color: #62ff00;
+    width: 150px;
+    height: 150px;
+    transition: 1s;
+    transform: translateX(50px);
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+    -webkit-transform: translateX(50px);
+    -moz-transform: translateX(50px);
+    -ms-transform: translateX(50px);
+    -o-transform: translateX(50px);
+}
+/* PaulBocuse */
+.PaulBocuse{
+    background-image:
+    url('https://www.thedrinksbusiness.com/content/uploads/2020/01/Paul-Bocuse-3-copy-768x974.jpg');
+    position: absolute;
+    width: 12rem;
+    height: 150px;
+    border: solid rgb(111, 28, 28);
+    border-width: 2px;
+    margin-left: 20px;
+    margin-top: 500px;
+    background-position: 10px;
+    background-size: cover;
+}
+
+.biopaul{
+    font-size: 15px;
+    border: solid wheat 2px;
+    padding: 3px;
+    position: absolute;
+    opacity: 100%;
+    color: #ffffff;
+    margin-top: 575px;
+    box-shadow: 3px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
+   left: 260px;
+}
+.PaulBocuse h3{
+    left: 200px;
+    text-shadow: 2px 2px 2px black;
+  color: #ffffff;
+    position: absolute;
+}
+
+.PaulBocuse:hover h3{
+    left: 160px;
+    transition: 1s;
+    color: #ffffff;
+    position: absolute;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.PaulBocuse:hover{
+    position: absolute;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    border-color: #001eff;
+    width: 150px;
+    height: 150px;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+/* AnneSophiePic */
+.AnneSophiePic{
+    background-image:
+    url('https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F39a0f658-0336-11e7-aa5b-6bb07f5c8e12?dpr=2&fit=scale-down&quality=medium&source=next&width=700');
+    position: absolute;
+    width: 12rem;
+    background-position: -20px;
+    height: 150px;
+    border: solid rgb(111, 28, 28);
+    border-width: 2px;
+   left: 920px;
+    margin-top: 130px;
+    background-size: cover;
+}
+
+.bioanne{
+    font-size: 15px;
+    border: solid wheat 2px;
+    padding: 3px;
+    position: absolute;
+    opacity: 100%;
+    color: #ffffff;
+    margin-top: 205px;
+    box-shadow: 3px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
+   left: 640px;
+   text-align: end;
+}
+.AnneSophiePic h4{
+    right: 200px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: end;
+    text-shadow: 2px 2px 2px black;
+  color: #ffffff;
+    position: absolute;
+}
+
+.AnneSophiePic:hover h4{
+    right: 160px;
+    text-align: end;
+    transition: 1s;
+    color: #ffffff;
+    position: absolute;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.AnneSophiePic:hover{
+    position: absolute;
+    border-style: solid;
+    background-position: -40px;
+    border-width: 3px;
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    border-color: #8800ff;
+    width: 150px;
+    height: 150px;
+    transition: 1s;
+    transform: translateX(50px);
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+    -webkit-transform: translateX(50px);
+    -moz-transform: translateX(50px);
+    -ms-transform: translateX(50px);
+    -o-transform: translateX(50px);
+}
+
+/* Pierre Gagnaire */
+
+.PierreGagnaire{
+    background-image:
+    url('https://www.mldspot.com/storage/generated/June2021/MLD%20-%20Pierre%20Gagnaire,%20The%20Michelin%20Chef.jpg');
+    position: absolute;
+    width: 12rem;
+    height: 150px;
+    border: solid rgb(111, 28, 28);
+    border-width: 2px;
+    margin-left: 630px;
+    margin-top: 320px;
+    background-size: cover;
+}
+
+.biopier{
+    font-size: 15px;
+    border: solid wheat 2px;
+    padding: 3px;
+    position: absolute;
+    opacity: 100%;
+    color: #ffffff;
+    margin-top: 395px;
+    box-shadow: 3px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
+   left: 870px;
+}
+.PierreGagnaire h3{
+    left: 200px;
+    text-shadow: 2px 2px 2px black;
+  color: #ffffff;
+    position: absolute;
+}
+
+.PierreGagnaire:hover h3{
+    left: 160px;
+    transition: 1s;
+    color: #ffffff;
+    position: absolute;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.PierreGagnaire:hover{
+    position: absolute;
+    border-style: solid;
+    background-position: -30px;
+    border-width: 3px;
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    border-color: #fff700;
+    width: 150px;
+    height: 150px;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+/* BarbaraCostikyan */
+.BarbaraCostikyan{
+    background-image:
+    url('https://static01.nyt.com/images/2020/08/11/obituaries/06Costikyan/merlin_175371963_a7395f76-39c2-475e-905d-11260a2c3b6f-mobileMasterAt3x.jpg');
+    position: absolute;
+    width: 12rem;
+    background-position: 20px;
+    height: 150px;
+    border: solid rgb(111, 28, 28);
+    border-width: 2px;
+   left: 920px;
+    margin-top: 500px;
+    background-size: cover;
+}
+
+.biobarbara{
+    font-size: 15px;
+    border: solid wheat 2px;
+    padding: 3px;
+    position: absolute;
+    opacity: 100%;
+    color: #ffffff;
+    margin-top: 575px;
+    box-shadow: 3px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
+   left: 640px;
+   text-align: end;
+}
+.BarbaraCostikyan h4{
+    right: 200px;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: end;
+    text-shadow: 2px 2px 2px black;
+  color: #ffffff;
+    position: absolute;
+}
+
+.BarbaraCostikyan:hover h4{
+    right: 170px;
+    text-align: end;
+    transition: 1s;
+    color: #ffffff;
+    position: absolute;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.BarbaraCostikyan:hover{
+    position: absolute;
+    border-style: solid;
+    background-position: 10px;
+    border-width: 3px;
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    border-color: #ff008c;
+    width: 150px;
+    height: 150px;
+    transition: 1s;
+    transform: translateX(50px);
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+    -webkit-transform: translateX(50px);
+    -moz-transform: translateX(50px);
+    -ms-transform: translateX(50px);
+    -o-transform: translateX(50px);
+}
+

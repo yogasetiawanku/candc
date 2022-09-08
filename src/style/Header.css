@@ -1,0 +1,227 @@
+.Bgheader{
+    background-image: linear-gradient( 135.9deg,  rgba(109,25,252,1) 16.4%, rgba(125,31,165,1) 56.1% );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 160vh;
+    position: relative;
+}
+
+
+.gt3{
+    font-size: 16px;
+    margin-top: -180px;
+    margin-left: 2px;
+    position: fixed;
+    position: absolute;
+}
+
+
+.header{
+    text-align:left;
+    float: center;
+    position: relative;
+    margin-left: 350px;
+}
+
+.headertext{
+    font-size: 18px;
+    margin-top: 80px;
+    position: absolute;
+}
+
+.cake{
+    background-image:
+    url('https://img-global.cpcdn.com/recipes/d454bcc8044eb600/680x482cq70/bolu-cake-vanila-pakai-oven-tangkring-foto-resep-utama.jpg');
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-left: -130px;
+    background-size: cover;
+    margin-top: -140px;
+    transition: 1s;
+    border-radius: 10px ;
+    opacity: 0;
+    background-position: top;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+
+.cake:hover{
+   margin-left: -100px;
+   width: 200px;
+   height: 170px;
+   position: relative;
+   background-position: top;
+   background-size: cover;
+   transition: 1s;
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+}
+
+.vanila{
+    margin-top: 280px;
+    margin-left: -200px;
+    position: absolute;
+    font-size: 80px;
+    color: aliceblue;
+    cursor: pointer;
+    opacity: 100%;
+   
+}
+
+.vanila:hover .cake{
+    display: block;
+    width: 30rem;
+    background-size: cover;
+    position: relative;
+    transition: 1s ;
+    transform: translateX(100px);
+    -webkit-transform: translateX(100px);
+    -moz-transform: translateX(100px);
+    -ms-transform: translateX(100px);
+    -o-transform: translateX(100px);
+    -webkit-transition: 1s ;
+    -moz-transition: 1s ;
+    -ms-transition: 1s ;
+    -o-transition: 1s ;
+}
+
+
+.dd{
+    background-color: black;
+    display: block;
+    height: 100vh;
+    position: absolute;
+}
+
+/* cake 2 */
+
+.cake2{
+    background-image:
+    url('https://manaberita.com/v1/uploads/2019/01/images-127.jpg');
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-left: 530px;
+    background-size: cover;
+    margin-top: -140px;
+    transition: 1s;
+    border-radius: 10px ;
+    opacity: 0;
+    background-position: top;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.cake2:hover{
+    margin-left: -100px;
+    width: 10px;
+    height: 170px;
+    position: relative;
+    background-position: top;
+    background-size: cover;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+
+.cocolate{
+    margin-top: 450px;
+    margin-left: 150px;
+    position: absolute;
+    font-size: 80px;
+    color: aliceblue;
+    cursor: pointer;
+    opacity: 100%;
+}
+
+.cocolate:hover .cake2{
+    display: block;
+    margin-left: -120px;
+    width: 35rem;
+    background-size: cover;
+    position: relative;
+    transition: 1s ;
+    transform: translateX(100px);
+    -webkit-transform: translateX(100px);
+    -moz-transform: translateX(100px);
+    -ms-transform: translateX(100px);
+    -o-transform: translateX(100px);
+    -webkit-transition: 1s ;
+    -moz-transition: 1s ;
+    -ms-transition: 1s ;
+    -o-transition: 1s ;
+}
+
+/* cake3 */
+
+.cake3{
+    background-image:
+    url('https://preppykitchen.com/wp-content/uploads/2022/05/Strawberry-Cake-Recipe-Card.jpg');
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-left: -130px;
+    background-size: cover;
+    margin-top: -140px;
+    transition: 1s;
+    border-radius: 10px ;
+    opacity: 0;
+    background-position: top;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.cake3:hover{
+   margin-left: -100px;
+   width: 800px;
+   height: 200px;
+   margin-top: -150px;
+   position: relative;
+   background-position: top;
+   background-size: cover;
+   transition: 1s;
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+}
+
+.strawberry{
+    margin-top: 650px;
+    margin-left: -150px;
+    position: absolute;
+    font-size: 80px;
+    color: aliceblue;
+    cursor: pointer;
+    display: block;
+}
+
+.strawberry:hover .cake3{
+    display: block;
+    width: 40rem;
+    background-size: cover;
+    position: relative;
+    transition: 1s ;
+    transform: translateX(100px);
+    -webkit-transform: translateX(100px);
+    -moz-transform: translateX(100px);
+    -ms-transform: translateX(100px);
+    -o-transform: translateX(100px);
+    -webkit-transition: 1s ;
+    -moz-transition: 1s ;
+    -ms-transition: 1s ;
+    -o-transition: 1s ;
+}

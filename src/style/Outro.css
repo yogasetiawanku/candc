@@ -1,0 +1,60 @@
+.BgLanding4{
+    overflow: hidden;
+    background: #C04848;
+    background-image: radial-gradient( circle farthest-corner at 10.2% 55.8%,  rgb(188, 20, 70) 0%, rgb(203, 29, 122) 46.2%, rgb(152, 8, 147) 90.1% );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130vh;
+    position: relative;
+    background-attachment: fixed;
+}
+
+
+.cr{
+    margin-top: 60px;
+    position: relative;
+    width: 30rem;
+    justify-content: center;
+    float: center;
+    left: 305px;
+    border: solid black 10px;
+}
+
+.textleft:hover .cr{
+    border: solid rgb(255, 255, 255) 10px;
+}
+
+.textleft{
+    position: absolute;
+    color: aliceblue;
+    bottom: -260px;
+    left: 20px;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+}
+.textright{
+    position: absolute;
+    color: aliceblue;
+    bottom: -260px;
+    left: 630px;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+}
+.textbottom{
+    position: absolute;
+    color: aliceblue;
+    bottom: -480px;
+    left: 330px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+}

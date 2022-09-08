@@ -1,0 +1,102 @@
+.BgLanding5{
+    overflow: hidden;
+    background: #C04848;
+   background-image: url("https://cutewallpaper.org/21/hd-background-gif/GIFs-on-Behance.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    background-attachment: fixed;
+    cursor: pointer;
+}
+
+.lets{
+    color: rgb(82, 118, 150);
+    position: absolute;
+    top: 180px;
+    left: 200px;
+    font-size: 140px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.nm:hover .talk{
+   width: 600px;
+   transition: 0.5s;
+   -webkit-transition: 0.5s;
+   -moz-transition: 0.5s;
+   -ms-transition: 0.5s;
+   -o-transition: 0.5s;
+}
+
+.talk{
+    background-color: rgb(25, 92, 150);
+    width: 0;
+    height: 5px;
+    margin-left: 125px;
+    margin-top: 335px;
+}
+
+.amerika{
+    margin-left: 130px;
+    margin-top: 80px;
+}
+.surabaya{
+    margin-left: 350px;
+    margin-top: -95px;
+}
+.created{
+    margin-left: 600px;
+    margin-top: -95px;
+}
+.contactme{
+    margin-left: 800px;
+    margin-top: -95px;
+}
+
+.imagelogo{
+    opacity: 50%;
+    background-image: url("../asset/img/brand.png");
+    width: 6rem;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -8px 2px;
+    position: relative;
+    margin-top: -100px;
+    margin-left: 130px;
+    border: solid 3px beige;
+    padding: 10px;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    transform: skewY(5deg);
+    -webkit-transform: skewY(5deg);
+    -moz-transform: skewY(5deg);
+    -ms-transform: skewY(5deg);
+    -o-transform: skewY(5deg);
+    animation: muter 2s 1s infinite;
+    -webkit-animation: muter 2s 1s infinite;
+}
+
+@keyframes muter {
+    0%   { transform:skewY(5deg); background-color:red; -webkit-transform:skewY(5deg); -moz-transform:skewY(5deg); -ms-transform:skewY(5deg); -o-transform:skewY(5deg); }
+    25%  { transform:skewY(-6deg); background-color:rgb(255, 234, 0); -webkit-transform:skewY(-6deg); -moz-transform:skewY(-6deg); -ms-transform:skewY(-6deg); -o-transform:skewY(-6deg); }
+    50%  { transform:skewY(-9deg); background-color:rgb(0, 255, 38); -webkit-transform:skewY(-9deg); -moz-transform:skewY(-9deg); -ms-transform:skewY(-9deg); -o-transform:skewY(-7deg); }
+    100% { transform:skewY(5deg); background-color:rgb(4, 0, 255); -webkit-transform:skewY(5deg); -moz-transform:skewY(5deg); -ms-transform:skewY(5deg); -o-transform:skewY(-5deg); }
+  }
+.imagelogo:hover{
+    opacity: 75%;
+    transform: skewY(-5deg);
+    -webkit-transform: skewY(-5deg);
+    -moz-transform: skewY(-5deg);
+    -ms-transform: skewY(-5deg);
+    -o-transform: skewY(-5deg);
+    transition: 1s ease-in;
+    -webkit-transition: 1s ease-in;
+    -moz-transition: 1s ease-in;
+    -ms-transition: 1s ease-in;
+    -o-transition: 1s ease-in;
+    border-color: rgb(174, 0, 255);
+}

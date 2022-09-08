@@ -1,0 +1,83 @@
+.BgLanding{
+    background-image: linear-gradient( 109.6deg,  rgba(9,9,121,1) 11.2%, rgba(144,6,161,1) 53.7%, rgb(47, 0, 255) 100.2% );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.BgLanding2{
+    overflow: hidden;
+    background: #C04848;
+    background: linear-gradient(rgba(110, 96, 235, 0.8), rgba(90, 173, 211, 0.8)), url("../asset/img/bghappy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+.intro{
+    margin-top: 250px;
+    position: fixed;
+}
+
+.gt{
+    font-size: 20px;
+    margin-top: -1px;
+    margin-left: -13px;
+    position: fixed;
+}
+
+.introo{
+    margin-top: 218px;
+    position: fixed;
+    margin-left: 470px;
+}
+
+.heading1{
+    margin-top: 270px;
+    position: fixed;
+    margin-left: 280px;
+    font-size: 45px;
+}
+
+.btnstarted{
+    box-shadow: 1px 2px 1px rgb(53, 49, 49);
+    border-color: rgb(88, 71, 87);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 410px;
+    position: absolute;
+    margin-left: 500px;
+    background-image: linear-gradient( 109.6deg,  rgba(254,87,98,1) 11.2%, rgba(255,107,161,1) 99.1% );
+    position: fixed;
+}
+
+.btnstarted:hover{
+    background-image: linear-gradient( 111.6deg,  rgb(223, 117, 68) 27.3%, rgba(246,135,135,1) 112.7% );
+  
+}
+
+.paralax{
+   background-attachment: inherit;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+ 
+::-webkit-scrollbar-track {      
+    background: rgb(8, 0, 1);    
+}
+ 
+::-webkit-scrollbar-thumb {
+    background-image: linear-gradient( 109.6deg,  rgba(61,245,167,1) 11.2%, rgba(9,111,224,1) 91.1% );
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
